@@ -1,15 +1,15 @@
 # Webinar CodigoCode y UTN.BA
 
-##Temas vistos
+## Temas vistos
 
-###Java Web	
+### Java Web	
 
-###Arquitectura de APIs
+### Arquitectura de APIs
 
-###Creación de un Api Rest
+### Creación de un Api Rest
 
-###Persistencia en base de datos
+### Persistencia en base de datos
 
-##Video del seminario
+## Video del seminario
 
-###https://www.youtube.com/watch?v=yAgp5re1FXk
+### https://www.youtube.com/watch?v=yAgp5re1FXk
