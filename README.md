@@ -9,3 +9,7 @@
 
 ## Video del seminario
 ### https://www.youtube.com/watch?v=yAgp5re1FXk
+
+
+## Dudas?
+### dante@codigocode.com
