@@ -1,0 +1,11 @@
+
+<input type="number" [(ngModel)]="idPersona" placeholder="ingrese el id de la persona" />
+<button (click)="buscar()"> buscar </button>
+<br/>
+El id de la persona a buscar es : {{idPersona}}
+
+
+<h2>Descripcion de la persona seleccionada</h2>
+<h3>nombre {{objPersona?.nombre}}</h3>
+<h3>apellido {{objPersona?.apellido}}</h3>
+<h3>password {{objPersona?.password}}</h3>
